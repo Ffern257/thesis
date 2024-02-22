@@ -13,6 +13,9 @@ This thesis examines the multifaceted interactions between humans and sea turtle
 7. Vance, James E., Jr. *The Continuing City: Urban Morphology in Western Civilization*. Baltimore and London: The Johns Hopkins University Press, 1990.
 8. Garvin, Alexander. *The Planning Game: Lessons from Great Cities*. New York: W. W. Norton & Company, 2013.
 
+## Sketch
+1. First sketch
+   https://www.figma.com/file/y2Mb8OhHUDkRm8wuxegARx/Untitled?type=design&node-id=0%3A1&mode=design&t=yB2oIgQW99iWj8u4-1
 
 
 
